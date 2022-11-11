@@ -1,6 +1,6 @@
 <p align="center">
-  <a target="_blank" href="">
-    <img alt="News Homepage Logo" src="" width="100" />
+  <a target="_blank" href="https://news-homepage-frontendmentor.netlify.app/">
+    <img alt="News Homepage Logo" src="public/logo.svg" width="100" />
   </a>
 </p>
 <h1 align="center">
@@ -11,6 +11,6 @@ Jr Developer exercise test project from **Frontend Mentor**. Built on Vite.js, R
 
 ## 🚀 To view the website you can click on the link below
 
-<a target="_blank" href="">news-homepage.netlify.app</a>
+[news-homepage-frontendmentor.netlify.app](https://news-homepage-frontendmentor.netlify.app)
 
 ## 💖 Thanks for reading me. See you!
