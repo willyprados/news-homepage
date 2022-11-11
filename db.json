@@ -4,8 +4,8 @@
     "title": "The Bright Future of Web 3.0?",
     "description": "We dive into the next evolution of the web that claims to put the power of the platforms back into the hands of the people. But is it really fulfilling its promise?",
     "button": "Read more",
-    "image-desktop": "https://news-homepage-frontendmentor.netlify.app/public/assets/image-web-3-desktop.jpg",
-    "image-mobile": "https://news-homepage-frontendmentor.netlify.app/public/assets/image-web-3-mobile.jpg"
+    "image-desktop": "https://news-homepage-frontendmentor.netlify.app/assets/image-web-3-desktop.jpg",
+    "image-mobile": "https://news-homepage-frontendmentor.netlify.app/assets/image-web-3-mobile.jpg"
   },
   "recent": {
     "title": "New",
@@ -30,19 +30,19 @@
         "id": 1,
         "title": "Reviving Retro PCs",
         "description": "What happens when old PCs are given modern upgrades?",
-        "image": "https://news-homepage-frontendmentor.netlify.app/public/assets/image-retro-pcs.jpg"
+        "image": "https://news-homepage-frontendmentor.netlify.app/assets/image-retro-pcs.jpg"
       },
       {
         "id": 2,
         "title": "Top 10 Laptops of 2022",
         "description": "Our best picks for various needs and budgets.",
-        "image": "https://news-homepage-frontendmentor.netlify.app/public/assets/image-top-laptops.jpg"
+        "image": "https://news-homepage-frontendmentor.netlify.app/assets/image-top-laptops.jpg"
       },
       {
         "id": 3,
         "title": "The Growth of Gaming",
         "description": "How the pandemic has sparked fresh opportunities.",
-        "image": "https://news-homepage-frontendmentor.netlify.app/public/assets/image-gaming-growth.jpg"
+        "image": "https://news-homepage-frontendmentor.netlify.app/assets/image-gaming-growth.jpg"
       }
     ]
   }
